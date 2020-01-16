@@ -1,0 +1,14 @@
+Commands
+
+// Install express  
+yarn add express
+
+// Install nodemon
+yarn add nodemon -D
+
+// Install MongoDB
+yarn add mongoose
+
+// Install Axios
+yarn add Axios
+
