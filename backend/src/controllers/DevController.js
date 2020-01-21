@@ -14,12 +14,11 @@ module.exports = {
         let dev = await Dev.findOne({ github_username })
 
         if (!dev) {
-
             const apiResponse = await axios.get(`https://api.github.com/users/${ github_username }`)
 
             const { name = login, avatar_url, bio } = apiResponse.data
 
-            const techsArray = parseStringArray.parseStringArray(techs)
+            const techsArray = parseStringArray(techs)
 
             const location = {
                 type: 'Point',
