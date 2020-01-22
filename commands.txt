@@ -12,3 +12,12 @@ yarn add mongoose
 // Install Axios
 yarn add axios
 
+//Install React JS
+yarn create react-app <DIR_NAME>
+
+// Install Cors
+yarn add Cors
+
+// Install Axios
+yarn add axios
+
