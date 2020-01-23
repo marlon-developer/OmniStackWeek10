@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "expo-cli": "^3.11.7",
+    "react-navigation": "^4.0.10"
+  },
+  "name": "OmniStackWeek10",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/marlon-developer/OmniStackWeek10.git",
+  "author": "marlon-developer <marlonti17@gmail.com>",
+  "license": "MIT"
+}

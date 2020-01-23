@@ -21,3 +21,37 @@ yarn add Cors
 // Install Axios
 yarn add axios
 
+// Install Expo
+yarn global add expo-cli
+    Config Global Path in .bash_profile, .zsh, .bash etc ... in HOME
+        export PATH="$(yarn global bin):$PATH"
+
+    Init Expo Project
+        expo init <PROJECT> 
+
+
+// Install React Navigation 
+yarn add react-navigation
+
+
+// Install Reac Navigation Stack 
+yarn add react-navigation-stack 
+
+
+// Install Routing & Navigation
+expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context
+
+
+// Install Reac Native Community 
+yarn add @react-native-community/masked-view
+
+
+// Install Expo Maps
+yarn add react-native-maps
+
+
+// Install Geolocation Expo
+expo install expo-location
+
+
+
